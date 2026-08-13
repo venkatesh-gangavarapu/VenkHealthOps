@@ -44,37 +44,48 @@ The goal is to build and explain a production-grade healthcare platform
 from scratch while demonstrating the complete DevOps lifecycle:
 
 Business Requirements
-        ↓
+
+↓
         
 Architecture
-        ↓
+
+↓
         
 Application
-        ↓
+
+↓
         
-Infrastructure
-        ↓
+Infrastructure        
+
+↓
         
 Infrastructure as Code
-        ↓
+
+↓
         
 CI/CD
-        ↓
+
+↓
         
 Security
-        ↓
+
+↓
         
 Kubernetes
-        ↓
+
+↓
         
 Observability
-        ↓
+
+↓
         
 Incident Management
-        ↓
+
+↓
         
 Disaster Recovery
-        ↓
+
+↓
         
 Continuous Improvement
 
